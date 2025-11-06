@@ -1,0 +1,25 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║          AztecAI Knowledge Base - Resumen de Proceso         ║
+╚══════════════════════════════════════════════════════════════╝
+
+📊 ESTADÍSTICAS:
+   • Secciones procesadas: 14
+   • Total de caracteres: 65,068
+   • Total de palabras: 8,814
+   • Promedio por sección: 4,647 caracteres
+
+📁 ARCHIVOS GENERADOS:
+   • metadata.json              → Metadatos del knowledge base
+   • sections/*.md              → 14 archivos individuales
+   • AztecAI_Complete_KB.md     → Documento combinado
+   • embeddings.jsonl           → Formato para embeddings
+
+✅ SIGUIENTE PASO:
+   1. Importar los archivos a OpenWebUI (Workspace → Documents)
+   2. Crear un nuevo modelo con el Modelfile.AztecAI
+   3. Configurar el modelo para usar el Knowledge Base
+   
+📖 Ver guía completa en: GUIA_INSTALACION_OWUI.md
+
+        

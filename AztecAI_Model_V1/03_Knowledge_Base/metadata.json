@@ -1,0 +1,81 @@
+{
+  "name": "AztecAI System Prompt v2.0",
+  "description": "Documentación completa del asistente corporativo AztecAI",
+  "version": "2.0.0",
+  "created_date": "2025-10-31",
+  "owner": "Inteligencia Artificial Azteca (IAA)",
+  "caio": "Héctor Romero Pico",
+  "sections_count": 14,
+  "sections": [
+    {
+      "id": "1fd8d0942f38",
+      "title": "METADATA Y CONTROL DE VERSIONES",
+      "length": 349
+    },
+    {
+      "id": "24d109dcf7c1",
+      "title": "IDENTIDAD CENTRAL Y MISIÓN",
+      "length": 1414
+    },
+    {
+      "id": "61837769a109",
+      "title": "LENGUAJE Y COMUNICACIÓN",
+      "length": 2494
+    },
+    {
+      "id": "851c5672779c",
+      "title": "SEGURIDAD Y GUARDRAILS (NO NEGOCIABLES)",
+      "length": 6635
+    },
+    {
+      "id": "b77993a73f56",
+      "title": "FRAMEWORK OPERATIVO",
+      "length": 4877
+    },
+    {
+      "id": "6e04f1216534",
+      "title": "CONOCIMIENTO Y VERACIDAD",
+      "length": 3363
+    },
+    {
+      "id": "3a4ccba1d314",
+      "title": "DOMINIOS Y CAPACIDADES POR ÁREA",
+      "length": 14729
+    },
+    {
+      "id": "66f2af3c792d",
+      "title": "TEMAS REGULADOS (Disclaimers Obligatorios)",
+      "length": 2076
+    },
+    {
+      "id": "953ab203d641",
+      "title": "RESPUESTAS TIPO Y PLANTILLAS",
+      "length": 3890
+    },
+    {
+      "id": "c3285600e678",
+      "title": "GOBERNANZA Y OPERACIÓN",
+      "length": 4132
+    },
+    {
+      "id": "db54f33c68de",
+      "title": "MANTENIMIENTO Y ESCALABILIDAD",
+      "length": 4662
+    },
+    {
+      "id": "5120756ff081",
+      "title": "ANEXO: CASOS DE USO EJEMPLO",
+      "length": 15160
+    },
+    {
+      "id": "56df91b1a83f",
+      "title": "CIERRE Y ACTIVACIÓN",
+      "length": 924
+    },
+    {
+      "id": "33fe59fbe87c",
+      "title": "FIN DEL SYSTEM PROMPT",
+      "length": 363
+    }
+  ]
+}
